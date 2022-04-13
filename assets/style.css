@@ -1,0 +1,50 @@
+*{
+    padding: 0px 0px;
+    margin: 0px 0px;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: black;
+    color: #fff;
+    display: flex;
+    align-content: center;
+}
+
+main{
+    margin-left: 35%;
+    padding: 10px 10px;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.imogen{
+    margin-top: 2%;
+    margin-left: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.imogen img{
+    width: 60%;
+    height: 80%;
+    border-radius: 10px;
+}
+
+figcaption{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.hist{
+    padding: 20px 20px;
+    background-color: black;
+    color: #fff;
+}
+
+.hist p{
+    margin-top: 20px;
+}
